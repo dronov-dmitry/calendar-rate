@@ -1,0 +1,12 @@
+# robots.txt для Calendar Logger
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /settings
+Disallow: /register
+
+# Sitemap
+Sitemap: https://calendar-logger.com/sitemap.xml
+
+# Crawl-delay для вежливого краулинга
+Crawl-delay: 1
